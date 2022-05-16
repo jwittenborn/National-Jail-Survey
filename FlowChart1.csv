@@ -1,0 +1,36 @@
+﻿Root,Call type,Possible Outcome 1,Next Step,Possible Outcome/Next Step,Possible Outcome/Next Step,Possible Outcome/Next Step,Possible Outcome/Next Step,Next Step,Next Step,1
+National Jail Survey,First outbound call,Answer,Determine whether it’s the right person,"Right person, good time",Conduct survey.,Complete,,,,1
+National Jail Survey,First outbound call,Answer,Determine whether it’s the right person,"Right person, good time",Conduct survey.,Need to refer to another colleague,Get contact info,Go to Callback – specific section,,1
+National Jail Survey,First outbound call,Answer,Determine whether it’s the right person,"Right person, bad time",Schedule callback at better time.,Go to Callback – outbound call Right person,,,,1
+National Jail Survey,First outbound call,Answer,Determine whether it’s the right person,"Right person, informed refusal",Exit,,,,,1
+National Jail Survey,First outbound call,Answer,Determine whether it’s the right person,Wrong person,Ask if the right person is available. ,Right person available: conduct survey with them.,Need to refer to another colleague,Get contact info,Go to Callback – specific section,1
+National Jail Survey,First outbound call,Answer,Determine whether it’s the right person,Wrong person,Ask if the right person is available. ,Right person available: conduct survey with them.,Complete,,,1
+National Jail Survey,First outbound call,Answer,Determine whether it’s the right person,Wrong person,Ask if the right person is available. ,Right person NOT available: get their info to call back.,Go to Callback – outbound call,,,1
+National Jail Survey,First outbound call,Answer,Determine whether it’s the right person,Refusal,Exit,,,,,1
+National Jail Survey,First outbound call,No answer,Leave voicemail. ,Go to Callback - outbound call,,,,,,1
+National Jail Survey,Callback – outbound call,Answer,Determine whether it’s the right person,"Right person, bad time",Schedule callback at better time.,Go to Callback - outbound call,,,,1
+National Jail Survey,Callback – outbound call,Answer,Determine whether it’s the right person,"Right person, good time",Conduct survey.,Need to refer to another colleague,Get contact info,Go to Callback – specific section,,1
+National Jail Survey,Callback – outbound call,Answer,Determine whether it’s the right person,"Right person, good time",Conduct survey.,Complete,,,,1
+National Jail Survey,Callback – outbound call,Answer,Determine whether it’s the right person,Wrong person,Ask if the right person is available,Right person available: conduct survey with them.,Need to refer to another colleague,Get contact info,Go to Callback – specific section,1
+National Jail Survey,Callback – outbound call,Answer,Determine whether it’s the right person,Wrong person,Ask if the right person is available,Right person available: conduct survey with them.,Complete,,,1
+National Jail Survey,Callback – outbound call,Answer,Determine whether it’s the right person,Wrong person,Ask if the right person is available,Right person NOT available: get their info to call back.,Go to Callback – outbound call,,,1
+National Jail Survey,Callback – outbound call,Answer,Determine whether it’s the right person,Refusal,Exit,,,,,1
+National Jail Survey,Callback – outbound call,No answer,Leave voicemail. ,Go to Callback - outbound call,,,,,,1
+National Jail Survey,Callback - outbound call Right person,Answer,Good time,Conduct survey.,Need to refer to another colleague,Get contact info,Go to Callback – specific section,,,1
+National Jail Survey,Callback - outbound call Right person,Answer,Good time,Conduct survey.,Complete,,,,,1
+National Jail Survey,Callback - outbound call Right person,Answer,Bad time,Schedule callback at better time.,,,,,,1
+National Jail Survey,Callback - outbound call Right person,No answer,Leave voicemail. ,Go to Callback - outbound call,,,,,,1
+National Jail Survey,Callback – inbound call,Voicemail on FAQ line,Listen to voicemail recording,Wants to complete survey on phone,Fwd to TSSO,Go to Callback - outbound call,,,,1
+National Jail Survey,Callback – inbound call,Voicemail on FAQ line,Listen to voicemail recording,Questions about survey,Research respond to FAQs,,,,,1
+National Jail Survey,Callback – inbound call,Voicemail on TSSO line,Listen to voicemail recording,Wants to complete survey on phone,Go to Callback - outbound call,,,,,1
+National Jail Survey,Callback – inbound call,Voicemail on TSSO line,Listen to voicemail recording,Questions about survey,TSSO fwd to Research,Fwd to TSSO,,,,1
+National Jail Survey,Callback – inbound call,Answer,Confirm jail they are calling from,Determine whether it’s the right person,Right person available: conduct survey with them.,Need to refer to another colleague,Get contact info,Go to Callback – specific section,,1
+National Jail Survey,Callback – inbound call,Answer,Confirm jail they are calling from,Determine whether it’s the right person,Right person available: conduct survey with them.,Complete,,,,1
+National Jail Survey,Callback – inbound call,Answer,Confirm jail they are calling from,Determine whether it’s the right person,Not right person: ask if right person is available,Right person available: conduct survey with them.,Need to refer to another colleague,Get contact info,Go to Callback – specific section,1
+National Jail Survey,Callback – inbound call,Answer,Confirm jail they are calling from,Determine whether it’s the right person,Not right person: ask if right person is available,Right person available: conduct survey with them.,Complete,,,1
+National Jail Survey,Callback – inbound call,Answer,Confirm jail they are calling from,Determine whether it’s the right person,Not right person: ask if right person is available,Right person NOT available: get their info to call back.,,,,1
+National Jail Survey,Callback – specific section,Answer,Ask for the person whose name was provided by the last respondent,If available: conduct survey,Need to refer to another colleague,Get contact info,Go to Callback – specific section,,,1
+National Jail Survey,Callback – specific section,Answer,Ask for the person whose name was provided by the last respondent,If available: conduct survey,Complete,,,,,1
+National Jail Survey,Callback – specific section,Answer,Ask for the person whose name was provided by the last respondent,"If they are not available, schedule callback",Go to Callback – specific section,,,,,1
+National Jail Survey,Callback – specific section,Answer,Ask for the person whose name was provided by the last respondent,Refusal,Ask if another person could answer questions on the topic/section,There is a colleague who can provide answers,Get their contact info,Go to Callback – specific section,,1
+National Jail Survey,Callback – specific section,Answer,Ask for the person whose name was provided by the last respondent,Refusal,Ask if another person could answer questions on the topic/section,There is NOT a colleague who can provide answers,"Skip section, and ask if there is another colleague for next section",Get contact info,Go to Callback – specific section,1

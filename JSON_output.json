@@ -1,0 +1,1025 @@
+{
+ "name": "National Jail Survey",
+ "children": [
+  {
+   "name": "National Jail Survey",
+   "_children": [
+    {
+     "name": "First outbound call",
+     "_children": [
+      {
+       "name": "Answer",
+       "_children": [
+        {
+         "name": "Determine whether it\u00e2\u20ac\u2122s the right person",
+         "_children": [
+          {
+           "name": "Right person, good time",
+           "_children": [
+            {
+             "name": "Conduct survey.",
+             "_children": [
+              {
+               "name": "Complete",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Need to refer to another colleague",
+               "_children": [
+                {
+                 "name": "Get contact info",
+                 "_children": [
+                  {
+                   "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Right person, bad time",
+           "_children": [
+            {
+             "name": "Schedule callback at better time.",
+             "_children": [
+              {
+               "name": "Go to Callback \u00e2\u20ac\u201c outbound call Right person",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Right person, informed refusal",
+           "_children": [
+            {
+             "name": "Exit",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Wrong person",
+           "_children": [
+            {
+             "name": "Ask if the right person is available. ",
+             "_children": [
+              {
+               "name": "Right person available: conduct survey with them.",
+               "_children": [
+                {
+                 "name": "Need to refer to another colleague",
+                 "_children": [
+                  {
+                   "name": "Get contact info",
+                   "_children": [
+                    {
+                     "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "name": "Complete",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Right person NOT available: get their info to call back.",
+               "_children": [
+                {
+                 "name": "Go to Callback \u00e2\u20ac\u201c outbound call",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Refusal",
+           "_children": [
+            {
+             "name": "Exit",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "No answer",
+       "_children": [
+        {
+         "name": "Leave voicemail.\u00c2\u00a0",
+         "_children": [
+          {
+           "name": "Go to Callback - outbound call",
+           "_children": [
+            {
+             "name": "",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Callback \u00e2\u20ac\u201c outbound call",
+     "_children": [
+      {
+       "name": "Answer",
+       "_children": [
+        {
+         "name": "Determine whether it\u00e2\u20ac\u2122s the right person",
+         "_children": [
+          {
+           "name": "Right person, bad time",
+           "_children": [
+            {
+             "name": "Schedule callback at better time.",
+             "_children": [
+              {
+               "name": "Go to Callback - outbound call",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Right person, good time",
+           "_children": [
+            {
+             "name": "Conduct survey.",
+             "_children": [
+              {
+               "name": "Need to refer to another colleague",
+               "_children": [
+                {
+                 "name": "Get contact info",
+                 "_children": [
+                  {
+                   "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Complete",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Wrong person",
+           "_children": [
+            {
+             "name": "Ask if the right person is available",
+             "_children": [
+              {
+               "name": "Right person available: conduct survey with them.",
+               "_children": [
+                {
+                 "name": "Need to refer to another colleague",
+                 "_children": [
+                  {
+                   "name": "Get contact info",
+                   "_children": [
+                    {
+                     "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "name": "Complete",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Right person NOT available: get their info to call back.",
+               "_children": [
+                {
+                 "name": "Go to Callback \u00e2\u20ac\u201c outbound call",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Refusal",
+           "_children": [
+            {
+             "name": "Exit",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "No answer",
+       "_children": [
+        {
+         "name": "Leave voicemail.\u00c2\u00a0",
+         "_children": [
+          {
+           "name": "Go to Callback - outbound call",
+           "_children": [
+            {
+             "name": "",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Callback - outbound call Right person",
+     "_children": [
+      {
+       "name": "Answer",
+       "_children": [
+        {
+         "name": "Good time",
+         "_children": [
+          {
+           "name": "Conduct survey.",
+           "_children": [
+            {
+             "name": "Need to refer to another colleague",
+             "_children": [
+              {
+               "name": "Get contact info",
+               "_children": [
+                {
+                 "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "name": "Complete",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bad time",
+         "_children": [
+          {
+           "name": "Schedule callback at better time.",
+           "_children": [
+            {
+             "name": "",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "No answer",
+       "_children": [
+        {
+         "name": "Leave voicemail.\u00c2\u00a0",
+         "_children": [
+          {
+           "name": "Go to Callback - outbound call",
+           "_children": [
+            {
+             "name": "",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Callback \u00e2\u20ac\u201c inbound call",
+     "_children": [
+      {
+       "name": "Voicemail on FAQ line",
+       "_children": [
+        {
+         "name": "Listen to voicemail recording",
+         "_children": [
+          {
+           "name": "Wants to complete survey on phone",
+           "_children": [
+            {
+             "name": "Fwd to TSSO",
+             "_children": [
+              {
+               "name": "Go to Callback - outbound call",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Questions about survey",
+           "_children": [
+            {
+             "name": "Research respond to FAQs",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Voicemail on TSSO line",
+       "_children": [
+        {
+         "name": "Listen to voicemail recording",
+         "_children": [
+          {
+           "name": "Wants to complete survey on phone",
+           "_children": [
+            {
+             "name": "Go to Callback - outbound call",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Questions about survey",
+           "_children": [
+            {
+             "name": "TSSO fwd to Research",
+             "_children": [
+              {
+               "name": "Fwd to TSSO",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Answer",
+       "_children": [
+        {
+         "name": "Confirm jail they are calling from",
+         "_children": [
+          {
+           "name": "Determine whether it\u00e2\u20ac\u2122s the right person",
+           "_children": [
+            {
+             "name": "Right person available: conduct survey with them.",
+             "_children": [
+              {
+               "name": "Need to refer to another colleague",
+               "_children": [
+                {
+                 "name": "Get contact info",
+                 "_children": [
+                  {
+                   "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Complete",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "name": "Not right person: ask if right person is available",
+             "_children": [
+              {
+               "name": "Right person available: conduct survey with them.",
+               "_children": [
+                {
+                 "name": "Need to refer to another colleague",
+                 "_children": [
+                  {
+                   "name": "Get contact info",
+                   "_children": [
+                    {
+                     "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "name": "Complete",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Right person NOT available: get their info to call back.",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Callback \u00e2\u20ac\u201c specific section",
+     "_children": [
+      {
+       "name": "Answer",
+       "_children": [
+        {
+         "name": "Ask for the person whose name was provided by the last respondent",
+         "_children": [
+          {
+           "name": "If available: conduct survey",
+           "_children": [
+            {
+             "name": "Need to refer to another colleague",
+             "_children": [
+              {
+               "name": "Get contact info",
+               "_children": [
+                {
+                 "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "name": "Complete",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "If they are not available, schedule callback",
+           "_children": [
+            {
+             "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+             "_children": [
+              {
+               "name": "",
+               "_children": [
+                {
+                 "name": "",
+                 "_children": [
+                  {
+                   "name": "",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "name": "Refusal",
+           "_children": [
+            {
+             "name": "Ask if another person could answer questions on the topic/section",
+             "_children": [
+              {
+               "name": "There is a colleague who can provide answers",
+               "_children": [
+                {
+                 "name": "Get their contact info",
+                 "_children": [
+                  {
+                   "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                   "_children": [
+                    {
+                     "name": "",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "There is NOT a colleague who can provide answers",
+               "_children": [
+                {
+                 "name": "Skip section, and ask if there is another colleague for next section",
+                 "_children": [
+                  {
+                   "name": "Get contact info",
+                   "_children": [
+                    {
+                     "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                     "size": "1"
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
