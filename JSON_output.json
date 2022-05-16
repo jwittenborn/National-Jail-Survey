@@ -1,7 +1,7 @@
 
   {
    "name": "National Jail Survey",
-   "_children": [
+   "children": [
     {
      "name": "First outbound call",
      "_children": [
@@ -9,7 +9,7 @@
        "name": "Answer",
        "_children": [
         {
-         "name": "Determine whether it\u00e2\u20ac\u2122s the right person",
+         "name": "Determine whether its the right person",
          "_children": [
           {
            "name": "Right person, good time",
@@ -25,12 +25,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -43,13 +38,8 @@
                  "name": "Get contact info",
                  "_children": [
                   {
-                   "name": "Go to Callback \u00e2\u20ac\u201c specific section",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "name": "Go to Callback - specific section",
+                   "size": ""
                   }
                  ]
                 }
@@ -66,19 +56,14 @@
              "name": "Schedule callback at better time.",
              "_children": [
               {
-               "name": "Go to Callback \u00e2\u20ac\u201c outbound call Right person",
+               "name": "Go to Callback - outbound call Right person",
                "_children": [
                 {
                  "name": "",
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -102,12 +87,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -131,12 +111,7 @@
                  "_children": [
                   {
                    "name": "Get contact info",
-                   "_children": [
-                    {
-                     "name": "Go to Callback \u00e2\u20ac\u201c specific section",
-                     "size": "1"
-                    }
-                   ]
+                   "size": "Go to Callback - specific section"
                   }
                  ]
                 },
@@ -145,12 +120,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -160,16 +130,11 @@
                "name": "Right person NOT available: get their info to call back.",
                "_children": [
                 {
-                 "name": "Go to Callback \u00e2\u20ac\u201c outbound call",
+                 "name": "Go to Callback - outbound call",
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -193,12 +158,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -232,12 +192,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -254,13 +209,13 @@
      ]
     },
     {
-     "name": "Callback \u00e2\u20ac\u201c outbound call",
+     "name": "Callback - outbound call",
      "_children": [
       {
        "name": "Answer",
        "_children": [
         {
-         "name": "Determine whether it\u00e2\u20ac\u2122s the right person",
+         "name": "Determine whether its the right person",
          "_children": [
           {
            "name": "Right person, bad time",
@@ -276,12 +231,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -304,13 +254,8 @@
                  "name": "Get contact info",
                  "_children": [
                   {
-                   "name": "Go to Callback \u00e2\u20ac\u201c specific section",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "name": "Go to Callback - specific section",
+                   "size": ""
                   }
                  ]
                 }
@@ -324,12 +269,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -353,12 +293,7 @@
                  "_children": [
                   {
                    "name": "Get contact info",
-                   "_children": [
-                    {
-                     "name": "Go to Callback \u00e2\u20ac\u201c specific section",
-                     "size": "1"
-                    }
-                   ]
+                   "size": "Go to Callback - specific section"
                   }
                  ]
                 },
@@ -367,12 +302,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -382,16 +312,11 @@
                "name": "Right person NOT available: get their info to call back.",
                "_children": [
                 {
-                 "name": "Go to Callback \u00e2\u20ac\u201c outbound call",
+                 "name": "Go to Callback - outbound call",
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -415,12 +340,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -454,12 +374,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -494,16 +409,11 @@
                "name": "Get contact info",
                "_children": [
                 {
-                 "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                 "name": "Go to Callback - specific section",
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -522,12 +432,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -556,12 +461,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -595,12 +495,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -617,7 +512,7 @@
      ]
     },
     {
-     "name": "Callback \u00e2\u20ac\u201c inbound call",
+     "name": "Callback - inbound call",
      "_children": [
       {
        "name": "Voicemail on FAQ line",
@@ -639,12 +534,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -668,12 +558,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -707,12 +592,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -736,12 +616,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -762,7 +637,7 @@
          "name": "Confirm jail they are calling from",
          "_children": [
           {
-           "name": "Determine whether it\u00e2\u20ac\u2122s the right person",
+           "name": "Determine whether its the right person",
            "_children": [
             {
              "name": "Right person available: conduct survey with them.",
@@ -774,13 +649,8 @@
                  "name": "Get contact info",
                  "_children": [
                   {
-                   "name": "Go to Callback \u00e2\u20ac\u201c specific section",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "name": "Go to Callback - specific section",
+                   "size": ""
                   }
                  ]
                 }
@@ -794,12 +664,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -818,12 +683,7 @@
                  "_children": [
                   {
                    "name": "Get contact info",
-                   "_children": [
-                    {
-                     "name": "Go to Callback \u00e2\u20ac\u201c specific section",
-                     "size": "1"
-                    }
-                   ]
+                   "size": "Go to Callback - specific section"
                   }
                  ]
                 },
@@ -832,12 +692,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -851,12 +706,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -873,7 +723,7 @@
      ]
     },
     {
-     "name": "Callback \u00e2\u20ac\u201c specific section",
+     "name": "Callback - specific section",
      "_children": [
       {
        "name": "Answer",
@@ -891,16 +741,11 @@
                "name": "Get contact info",
                "_children": [
                 {
-                 "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+                 "name": "Go to Callback - specific section",
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -919,12 +764,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -938,7 +778,7 @@
            "name": "If they are not available, schedule callback",
            "_children": [
             {
-             "name": "Go to Callback \u00e2\u20ac\u201c specific section",
+             "name": "Go to Callback - specific section",
              "_children": [
               {
                "name": "",
@@ -948,12 +788,7 @@
                  "_children": [
                   {
                    "name": "",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "size": ""
                   }
                  ]
                 }
@@ -976,13 +811,8 @@
                  "name": "Get their contact info",
                  "_children": [
                   {
-                   "name": "Go to Callback \u00e2\u20ac\u201c specific section",
-                   "_children": [
-                    {
-                     "name": "",
-                     "size": "1"
-                    }
-                   ]
+                   "name": "Go to Callback - specific section",
+                   "size": ""
                   }
                  ]
                 }
@@ -996,12 +826,7 @@
                  "_children": [
                   {
                    "name": "Get contact info",
-                   "_children": [
-                    {
-                     "name": "Go to Callback \u00e2\u20ac\u201c specific section",
-                     "size": "1"
-                    }
-                   ]
+                   "size": "Go to Callback - specific section"
                   }
                  ]
                 }
