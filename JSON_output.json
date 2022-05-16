@@ -1,6 +1,4 @@
-{
- "name": "National Jail Survey",
- "children": [
+
   {
    "name": "National Jail Survey",
    "_children": [
@@ -1021,5 +1019,4 @@
     }
    ]
   }
- ]
-}
+
